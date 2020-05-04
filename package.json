@@ -1,0 +1,22 @@
+{
+  "name": "maricarmen-app",
+  "version": "1.0.0",
+  "description": "holis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivasansa/maricarmen-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivasansa/maricarmen-app/issues"
+  },
+  "homepage": "https://github.com/ivasansa/maricarmen-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
