@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ivasansa/maricarmen-app#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "8.10.0"
   }
 }
